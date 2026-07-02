@@ -1,3 +1,5 @@
+// Video explicativo: https://www.youtube.com/watch?v=xvHpVdyxB8s
+
 // ─────────────────────────────────────────────
 //  PARÁMETROS VISUALES
 // ─────────────────────────────────────────────
